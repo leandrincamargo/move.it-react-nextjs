@@ -1,34 +1,107 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    <img src="./public/logo-full.svg">
+</h1>
+<br>
 
-## Getting Started
+---
 
-First, run the development server:
+<h2>📋 Índice</h2>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<ul>
+    <li><a href="#about">Sobre o projeto</a></li>
+    <li><a href="#techs">Tecnologias Utilizadas</a></li>
+    <li><a href="#layout">Layout</a></li>
+    <!-- <li><a href="#funcs">Funcionalidades</a></li> -->
+    <!-- <li><a href="#goals">Ideias</a></li> -->
+    <li><a href="#contribute">Como contribuir</a></li>
+</ul>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<br>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+---
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<h2 id="about">📖 Sobre o projeto</h2>
 
-## Learn More
+<br>
 
-To learn more about Next.js, take a look at the following resources:
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Projeto desenvolvido durante a NextLevelWeek 4 da Rocketseat, o<strong>move.it</strong> é uma aplicação feita para ser executada no próprio navegador (<i>Desktop</i> ou <i>Mobile</i>) e tem por objetivo evitar lesões em pessoas que passam muito tempo na frente de seus computadores. Tem como base a <strong>Técnica Pomodoro</strong>, que consiste na utilização de um cronômetro para dividir o trabalho em perídos de 25 minutos.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;A aplicação, além de fazer uso deste método, implementa elementos de <strong>gamificação</strong>, em que o usuário é recompensado subindo de nível após conquistar experiência suficiente cumprindo desafios. Estes últimos, por sua vez, consistem em pequenos exercícios ou caminhadas curtas que servem para alongar partes do corpo.</p>
+<!-- <p>&nbsp;&nbsp;&nbsp;&nbsp;Para visualizar o resultado, é possível acessar a página da aplicação <a href="https://magaliais-moveit.vercel.app" target="_blank">aqui✔️</a>.</p> -->
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<br>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+<h2 id="techs">🛠 Tecnologias e Ferramentas Utilizadas</h2>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<br>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- React;
+- Next.js;
+- Node.js;
+- Figma;
+- Visual Studio Code;
+
+<br>
+
+---
+
+<h2 id="layout">🔖 Layout</h2>
+
+Você pode visualizar o layout inicial do projeto através <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate" target="_blank">desse link</a>. É necessário ter conta no <a href="https://www.figma.com/" target="_blank">Figma</a> para acessá-lo.
+
+<br>
+
+---
+
+<!-- <h2 id="funcs">⚙️ Funcionalidades</h2>
+
+<br>
+
+ - [ ] Site disponível e hospedado, onde os usuários podem:
+    - [x] Criar transações de entrada
+    - [x] Criar transações de saída
+    - [x] Adicionar descrições para as transações
+    - [x] Adicionar a data da transação
+- [x] Os usuários tem acesso ao site responsivo no mobile;
+
+<br>
+
+--- -->
+
+<!-- <h2 id="goals">💡 Ideias</h2>
+
+<br>
+
+- [x] Adicionar um favicon à aba;
+- [x] Adicionar o método checagem de total ao `DOM.updateBalance()`, a fim de verificar o saldo final e alternar a cor do card entre verde ou vermelho de acordo com o resultado final do balanço;
+- [x] Adicionar a funcionalidade de deixar os dados das transações salvas no navegador para a próxima vez que o site seja acessado;
+- [ ] Adicionar `toggleTheme()` para alternar a aplicação entre <strong>modo noturno</strong> ou diurno;
+- [ ] Implementar possibilidade de <strong>editar</strong> uma transação já adicionada;
+- [ ] Adicionar input ao modal de cadastrar Nova Transação, que possibilita a categorização do tipo de transação realizada (Casa,
+Trabalho, Alimentação, Lazer, Atividade extra, etc);
+
+<br>
+
+--- -->
+
+<h2 id="contribute">💪 Como contribuir</h2>
+
+<br>
+
+<ol>
+    <li>Faça um fork do projeto.</li>
+    <li>Crie uma nova branch com as suas alterações: `git checkout -b my-feature`</li>
+    <li>Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`</li>
+    <li>Envie as suas alterações: `git push origin my-feature`</li>
+</ol>
+
+<br>
+
+---
+
+<br>
+
+Feito por <a href="https://www.github.com/leandrincamargo">Leandro Camargo</a>.
