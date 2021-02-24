@@ -28,7 +28,7 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Projeto desenvolvido durante a NextLevelWeek 4 pela Rocketseat, o <strong>move.it</strong> é uma aplicação feita para ser executada no próprio navegador (<i>Desktop</i> ou <i>Mobile</i>) e tem por objetivo evitar lesões em pessoas que passam muito tempo na frente de seus computadores. Tem como base a <strong>Técnica Pomodoro</strong>, que consiste na utilização de um cronômetro para dividir o trabalho em perídos de 25 minutos.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;A aplicação, além de fazer uso deste método, implementa elementos de <strong>gamificação</strong>, em que o usuário é recompensado subindo de nível após conquistar experiência suficiente cumprindo desafios. Estes últimos, por sua vez, consistem em pequenos exercícios ou caminhadas curtas que servem para alongar partes do corpo.</p>
-<!-- <p>&nbsp;&nbsp;&nbsp;&nbsp;Para visualizar o resultado, é possível acessar a página da aplicação <a href="https://magaliais-moveit.vercel.app" target="_blank">aqui✔️</a>.</p> -->
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Para visualizar o resultado, é possível acessar a página da aplicação <a href="https://move-it-react-nextjs.vercel.app" target="_blank">aqui✔️</a>.</p>
 
 <br>
 
